@@ -1,3 +1,4 @@
+/* 主类 */
 public class Hello {
     public static void main(String[] args) {
         //输出字符串
